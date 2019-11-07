@@ -1,7 +1,7 @@
 # Project Name
 
 **Author**: Trevor Thompson
-**Version**: 2.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 3.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 
@@ -19,47 +19,42 @@ This application design uses Express, Node.js, jQuery, JavaScript, HTML and CSS.
 
 ## Change Log
 
-11-06-2019 9:22am - Application now includes functionality to display accurate weather data based on user input.
-
-11-06-2019 9:26am - Application now includes functionality to display accurate map data based on user input.
 
 ## Credits and Collaborations
- 1. Mark Swearingen
- 2. Trevor Thompson
- 3. Travis Skyles
+  Natalie Alway
 
-## Feature #1: Data Formatting
+## Feature #1: Database
 
-Number and name of feature: Data Formatting
+Number and name of feature: Database
 
-Estimate of time needed to complete: 20 minutes
+Estimate of time needed to complete: 
 
-Start time: 9:15am
+Start time: 
 
-Finish time: 9:20am
+Finish time: 
 
-Actual time needed to complete: 5 minutes
+Actual time needed to complete: 
 
-## Feature #2: Locations
+## Feature #2: Server
 
-Number and name of feature: Locations
+Number and name of feature: Server
 
-Estimate of time needed to complete: 20 minutes
+Estimate of time needed to complete: 
 
-Start time: 9:20am
+Start time: 
 
-Finish time: 9:26am
+Finish time: 
 
-Actual time needed to complete: 6 minutes to complete
+Actual time needed to complete: 
 
-## Feature #3: Weather
+## Feature #3: Deploy
 
-Number and name of feature: Weather
+Number and name of feature: Deploy
 
-Estimate of time needed to complete: 10 minutes
+Estimate of time needed to complete: 
 
-Start time: 9:26am
+Start time: 
 
-Finish time: 9:30am
+Finish time: 
 
-Actual time needed to complete: 4 minutes to complete
+Actual time needed to complete: 
